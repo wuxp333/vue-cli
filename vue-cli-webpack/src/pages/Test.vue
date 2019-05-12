@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p class="til">hello world !</p>
+        <p class="til">hello world ! 我是大鹏哥</p>
         <router-link to="/">Home</router-link>
     </div>
 </template>
